@@ -1,0 +1,8 @@
+#Navbar;
+1. Nama Lengkap
+2. Home | About | Project | Contact
+
+#Hero Section
+tampilan pertama  website
+
+- squoosh.app = website compress gambar
